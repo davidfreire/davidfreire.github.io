@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "my_profile.png"
-  name             : "David Freire-Obregón"
+  #name             : "David Freire-Obregón"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor at Las Palmas de Gran Canaria University, interested in affective computing and sports analytics."
+  bio              : "Tenured Associate Professor at Las Palmas de Gran Canaria University, interested in affective computing, biometrics and sports analytics."
   location         : "Gran Canaria, Spain"
   employer         : "ULPGC"
   uri              : # URL
