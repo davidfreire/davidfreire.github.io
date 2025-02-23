@@ -6,7 +6,7 @@
 
 main:
   - title: "Research"
-    url: /_pages/research.md
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/  
