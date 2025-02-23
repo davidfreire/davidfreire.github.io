@@ -10,8 +10,6 @@ redirect_from:
 
 
 
-# Publications
-
 ## 2025
 - D. Freire-Obregón, O. J. Santana Jaria, "La revolución de los bocetos: del trazo a mano a la inteligencia artificial", *The Conversation*, 2025. [Paper](#)
 - D. Freire-Obregón, J. Neves, Ž. Emeršič, B. Meden, M. Castrillón-Santana, H. Proença, "Synthesizing multilevel abstraction ear sketches for enhanced biometric recognition", *Image and Vision Computing*, 2025. [Paper](#)
