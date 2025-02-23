@@ -18,10 +18,9 @@ My research focuses on advancing technology that enhances sports performance thr
 
 ---
 ## News
-- **02/2025** - Published a new paper on *Affective Computing in Human Activity Recognition* at the *International Journal of Computer Vision*.
-- **12/2024** - Presented at the *IEEE International Conference on Biometrics* on multimodal biometric systems.
-- **09/2024** - Started a new research project on *Emotion-Aware Systems for Sports Performance Optimization*.
-- **06/2024** - Organized the *Workshop on Advances in Affective Computing* at ULPGC.
+- **01/2025** - Published a new paper on *Ear Biometrics* at *Image and Computer Vision*.
+- **09/2024** - Published a new paper on *Affective Computing* at *Multimedia Tools and Applications*. 
+- **06/2024** - Published a new paper on *Image Quality Asssessment* at *Neurocomputing*.
 
 ---
 
