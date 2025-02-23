@@ -27,3 +27,8 @@ The course introduces the essential concepts and techniques for programming usin
 **∼150 STUDENTS**  
 This course focuses on developing programming skills using Java. It covers key object-oriented programming concepts, including classes, inheritance, and polymorphism. It also explores the design and implementation of graphical user interfaces (GUIs) and introduces concurrent programming techniques. Students will gain practical experience in building robust and scalable applications, applying best practices in Java development.
 
+---
+
+## 📚 Teaching Experience
+
+This is my current teaching portfolio. I have been teaching since **2008**, accumulating **vast experience** in delivering a wide range of courses at both undergraduate and postgraduate levels. My extensive background allows me to adapt to different learning environments and student needs, ensuring effective knowledge transfer and practical skill development.
