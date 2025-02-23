@@ -14,8 +14,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-   - title: "Press"
-     url: /press/
+  - title: "Press"
+    url: /press/
 
   # - title: "Talks"
   #  url: /talks/    
