@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me - "
+title: "About me "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am an associate professor at [ULPGC](https://ulpgc.es) (University of Las Palmas de Gran Canaria) with expertise in the field of Human Activity Recognition (HAR) models applied in the sportive domain, as well as biometrics and affective computing. I completed my PhD at ULPGC under the supervision of [Modesto-Castrillón-Santana](http://mozart.dis.ulpgc.es/~modesto/">Modesto-Castrillón-Santana). My research focuses on advancing technology that enhances sports performance through innovative HAR models. In addition, I am dedicated to developing secure and accurate biometric systems and exploring affective computing techniques to analyze and respond to emotional states, fostering more adaptive and human-centered technological solutions across diverse applications.
+I am an associate professor at [ULPGC](https://ulpgc.es) (University of Las Palmas de Gran Canaria) with expertise in the field of Human Activity Recognition (HAR) models applied in the sportive domain, as well as biometrics and affective computing. I completed my PhD at ULPGC under the supervision of [Modesto-Castrillón-Santana](http://mozart.dis.ulpgc.es/~modesto/">Modesto-Castrillón-Santana). 
+
+My research focuses on advancing technology that enhances sports performance through innovative HAR models. In addition, I am dedicated to developing secure and accurate biometric systems and exploring affective computing techniques to analyze and respond to emotional states, fostering more adaptive and human-centered technological solutions across diverse applications.
 
 
 
