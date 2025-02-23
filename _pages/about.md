@@ -18,7 +18,7 @@ My research focuses on advancing technology that enhances sports performance thr
 
 ---
 ## News
-- **01/2025** - Published a new paper on *Ear Biometrics* at *Image and Computer Vision*.
+- **01/2025** - Published a new paper on *Ear Biometrics* at *Image and Vision Computing*.
 - **09/2024** - Published a new paper on *Affective Computing* at *Multimedia Tools and Applications*. 
 - **06/2024** - Published a new paper on *Image Quality Asssessment* at *Neurocomputing*.
 
