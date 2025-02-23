@@ -25,4 +25,5 @@ The course introduces the essential concepts and techniques for programming usin
 ## 🎓 BSc Course - Programming Technologies
 
 **∼150 STUDENTS**  
-This course focuses on developing programming skills using Java. It covers key object-oriented programming concepts, including classes, inheritance, and polymorphism. It also explores the design and implementation of graphical user interfaces (GUIs) and introduces concurrent programming techniques. Students will gain practical experience in bu
+This course focuses on developing programming skills using Java. It covers key object-oriented programming concepts, including classes, inheritance, and polymorphism. It also explores the design and implementation of graphical user interfaces (GUIs) and introduces concurrent programming techniques. Students will gain practical experience in building robust and scalable applications, applying best practices in Java development.
+
