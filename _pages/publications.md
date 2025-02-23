@@ -89,7 +89,7 @@ redirect_from:
 
 ## 2011
 - D. Freire-Obregón, M. Castrillón-Santana, A. C. Domínguez-Brito, "Spatial programming learning: a new application to learn programming", *ICERI2011 Proceedings*, 2011. [Paper](#)
-- M. Castillón, "Fundamentos de informática y programación para ingeniería", *Definición de Sistema Informático. Cap*, 2011. [Paper](#)
+- M. Castrillón, A. Domínguez, S. Candela, L. Doreste, D. Freire, A. Salgado, and D. Hernández., "Fundamentos de informática y programación para ingeniería", Paraninfo, 2011. [Paper](#)
 
 ## 2010
 - M. Castrillón-Santana, J. Lorenzo-Navarro, D. Freire-Obregón, O. Déniz-Suárez, "Learning to recognize gender using experience", *Image Processing (ICIP), 2010 17th IEEE International Conference on*, 2010. [Paper](#)
