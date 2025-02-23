@@ -21,6 +21,7 @@ redirect_from:
 - F. Narducci, P. Dondi, D. Freire-Obregón, F. Pop, "Introduction to the special issue on “Computer vision solutions for part-based image analysis and classification (CV_PARTIAL)”", *Pattern Recognition Letters*, 2024. [Paper](#)
 - J. Salas-Cáceres, J. Lorenzo-Navarro, D. Freire-Obregón, M. Castrillón-Santana, "Multimodal emotion recognition based on a fusion of audiovisual information with temporal dynamics", *Multimedia Tools and Applications*, 2024. [Paper](#)
 - M. Castrillón-Santana, D. Freire-Obregón, D. Hernández-Sosa, O. J. Santana, F. Ortega-Zamorano, J. Isern-González, J. Lorenzo-Navarro, "An Evaluation of General-Purpose Optical Character Recognizers and Digit Detectors for Race Bib Number Recognition", *ICPRAM*, 2024. [Paper](#)
+- D. Freire-Obregón, P. Barra, M. Castrillón-Santana, M. De Marsico, “Exploring biometric domain adaptation in human action recognition models for unconstrained environments”, *Multimedia Tools and Applications*, 2024. [Paper](#)
 
 ## 2023
 - D. Freire-Obregón, J. Lorenzo-Navarro, O. J. Santana, D. Hernández-Sosa, M. Castrillón-Santana, "A Large-scale Analysis of Athletes’ Cumulative Race Time in Running Events", *International Conference on Image Analysis and Processing*, 2023. [Paper](#)
@@ -35,8 +36,11 @@ redirect_from:
 - D. Freire-Obregón, J. Lorenzo-Navarro, O. J. Santana, D. Hernández-Sosa, M. Castrillón-Santana, "An X3D neural network analysis for runner’s performance assessment in a wild sporting environment", *2023 18th International Conference on Machine Vision and Applications (MVA)*, 2023. [Paper](#)
 - F. Narducci, D. Freire-Obregón, I. Passero, "Pattern Recognition for Adaptive User Interfaces", *Multimedia Tools and Applications*, 2023. [Paper](#)
 - D. Freire-Obregón, D. Hernández-Sosa, O. J. Santana, J. Lorenzo-Navarro, M. Castrillón-Santana, "Towards facial expression robustness in multi-scale wild environments", *International conference on image analysis and processing*, 2023. [Paper](#)
+- D. Freire-Obregón, M. De Marsico, P. Barra, J. Lorenzo-Navarro, M. Castrillón-Santana, “Zero-shot ear cross-dataset transfer for person recognition on mobile devices”, *Pattern Recognition Letters*, 2023. [Paper](#)
+
 
 ## 2022
+- D. Freire-Obregón, P. Barra, M. Castrillón-Santana, M. De Marsico, “Inflated 3D ConvNet context analysis for violence detection”, *Machine Vision and Applications*, 2022. [Paper](#)
 - S. L. Almonacid-Uribe, O. J. Santana, D. Hernández-Sosa, D. Freire-Obregón, "Deep learning for diagonal earlobe crease detection", *arXiv preprint arXiv:2210.11582*, 2022. [Paper](#)
 - M. Á. Medina, J. Lorenzo-Navarro, D. Freire-Obregón, O. J. Santana, D. Hernández-Sosa, M. Castrillón-Santana, "Boosting Re-identification in the Ultra-running Scenario", *International Conference on Pattern Recognition Applications and Methods*, 2022. [Paper](#)
 - D. Freire-Obregón, J. Lorenzo-Navarro, O. J. Santana, D. Hernández-Sosa, M. Castrillón-Santana, "Towards cumulative race time regression in sports: I3D ConvNet transfer learning in ultra-distance running events", *2022 26th International Conference on Pattern Recognition (ICPR)*, 2022. [Paper](#)
