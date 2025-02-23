@@ -9,14 +9,13 @@ redirect_from:
 I am an associate professor at [ULPGC](https://ulpgc.es) (University of Las Palmas de Gran Canaria) with expertise in the field of Human Activity Recognition (HAR) models applied in the sportive domain, as well as biometrics and affective computing. I completed my PhD at ULPGC under the supervision of [Modesto-Castrillón-Santana](http://mozart.dis.ulpgc.es/~modesto/">Modesto-Castrillón-Santana). 
 
 My research focuses on advancing technology that enhances sports performance through innovative HAR models. In addition, I am dedicated to developing secure and accurate biometric systems and exploring affective computing techniques to analyze and respond to emotional states, fostering more adaptive and human-centered technological solutions across diverse applications.
-
 ---
 ## News
 - **02/2025** - Published a new paper on *Affective Computing in Human Activity Recognition* at the *International Journal of Computer Vision*.
 - **12/2024** - Presented at the *IEEE International Conference on Biometrics* on multimodal biometric systems.
 - **09/2024** - Started a new research project on *Emotion-Aware Systems for Sports Performance Optimization*.
 - **06/2024** - Organized the *Workshop on Advances in Affective Computing* at ULPGC.
-- **03/2024** - Invited speaker at the *European Conference on Human Activity Recognition*.
+
 ---
 
 
