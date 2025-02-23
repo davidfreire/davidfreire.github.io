@@ -11,15 +11,12 @@ I am an associate professor at [ULPGC](https://ulpgc.es) (University of Las Palm
 My research focuses on advancing technology that enhances sports performance through innovative HAR models. In addition, I am dedicated to developing secure and accurate biometric systems and exploring affective computing techniques to analyze and respond to emotional states, fostering more adaptive and human-centered technological solutions across diverse applications.
 
 ---
-
 ## News
-
 - **02/2025** - Published a new paper on *Affective Computing in Human Activity Recognition* at the *International Journal of Computer Vision*.
 - **12/2024** - Presented at the *IEEE International Conference on Biometrics* on multimodal biometric systems.
 - **09/2024** - Started a new research project on *Emotion-Aware Systems for Sports Performance Optimization*.
 - **06/2024** - Organized the *Workshop on Advances in Affective Computing* at ULPGC.
 - **03/2024** - Invited speaker at the *European Conference on Human Activity Recognition*.
-
 ---
 
 
