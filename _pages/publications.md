@@ -11,8 +11,8 @@ redirect_from:
 
 
 ## 2025
-- D. Freire-Obregón, O. J. Santana Jaria, "La revolución de los bocetos: del trazo a mano a la inteligencia artificial", *The Conversation*, 2025. [Paper](#)
-- D. Freire-Obregón, J. Neves, Ž. Emeršič, B. Meden, M. Castrillón-Santana, H. Proença, "Synthesizing multilevel abstraction ear sketches for enhanced biometric recognition", *Image and Vision Computing*, 2025. [Paper](#)
+- D. Freire-Obregón, O. J. Santana Jaria, "La revolución de los bocetos: del trazo a mano a la inteligencia artificial", *The Conversation*, 2025. [SPA](https://theconversation.com/la-revolucion-de-los-bocetos-del-trazo-a-mano-a-la-inteligencia-artificial-244864) [POR](https://theconversation.com/a-revolucao-dos-esbocos-do-desenho-a-mao-a-inteligencia-artificial-246655)
+- D. Freire-Obregón, J. Neves, Ž. Emeršič, B. Meden, M. Castrillón-Santana, H. Proença, "Synthesizing multilevel abstraction ear sketches for enhanced biometric recognition", *Image and Vision Computing*, 2025. [Paper](https://www.sciencedirect.com/science/article/pii/S0262885625000125)
 
 ## 2024
 - D. Freire-Obregón, D. Hernández-Sosa, O. J. Santana, J. Lorenzo-Navarro, M. Castrillón-Santana, "Towards Bi-Hemispheric Emotion Mapping through EEG: A Dual-Stream Neural Network Approach", *2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)*, 2024. [Paper](#)
