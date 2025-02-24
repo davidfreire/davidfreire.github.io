@@ -11,8 +11,6 @@ redirect_from:
 
 
 ## 2025
-- D. Freire-Obregón, J. Neves, Ž. Emeršič, B. Meden, M. Castrillón-Santana, H. Proença, "Synthesizing multilevel abstraction ear sketches for enhanced biometric recognition", *Image and Vision Computing*, 2025. [Paper](https://www.sciencedirect.com/science/article/pii/S0262885625000125)
-- D. Freire-Obregón, O. J. Santana Jaria, "La revolución de los bocetos: del trazo a mano a la inteligencia artificial", *The Conversation*, 2025. [Spanish](https://theconversation.com/la-revolucion-de-los-bocetos-del-trazo-a-mano-a-la-inteligencia-artificial-244864) [Portuguese](https://theconversation.com/a-revolucao-dos-esbocos-do-desenho-a-mao-a-inteligencia-artificial-246655)
 - D. Freire-Obregón, J. Neves, Ž. Emeršič, B. Meden, M. Castrillón-Santana, H. Proença, "Synthesizing multilevel abstraction ear sketches for enhanced biometric recognition", *Image and Vision Computing*, 2025. <a href="https://www.sciencedirect.com/science/article/pii/S0262885625000125" target="_blank">Paper</a>
 - D. Freire-Obregón, O. J. Santana Jaria, "La revolución de los bocetos: del trazo a mano a la inteligencia artificial", *The Conversation*, 2025. 
   <a href="https://theconversation.com/la-revolucion-de-los-bocetos-del-trazo-a-mano-a-la-inteligencia-artificial-244864" target="_blank">Spanish</a> 
@@ -25,8 +23,8 @@ redirect_from:
 - M. Castrillón-Santana, E. Sánchez-Nielsen, D. Freire-Obregón, O. J. Santana, D. Hernández-Sosa, J. Lorenzo-Navarro, "Visual Question Answering Models for Zero-Shot Pedestrian Attribute Recognition: A Comparative Study", *SN Computer Science*, 2024. [Paper](#)
 - F. Narducci, P. Dondi, D. Freire-Obregón, F. Pop, "Introduction to the special issue on “Computer vision solutions for part-based image analysis and classification (CV_PARTIAL)”", *Pattern Recognition Letters*, 2024. [Paper](#)
 - J. Salas-Cáceres, J. Lorenzo-Navarro, D. Freire-Obregón, M. Castrillón-Santana, "Multimodal emotion recognition based on a fusion of audiovisual information with temporal dynamics", *Multimedia Tools and Applications*, 2024. [Paper](#)
-- M. Castrillón-Santana, D. Freire-Obregón, D. Hernández-Sosa, O. J. Santana, F. Ortega-Zamorano, J. Isern-González, J. Lorenzo-Navarro, "An Evaluation of General-Purpose Optical Character Recognizers and Digit Detectors for Race Bib Number Recognition", *ICPRAM*, 2024. [Paper](#)
-- D. Freire-Obregón, P. Barra, M. Castrillón-Santana, M. De Marsico, “Exploring biometric domain adaptation in human action recognition models for unconstrained environments”, *Multimedia Tools and Applications*, 2024. [Paper](#)
+- M. Castrillón-Santana, D. Freire-Obregón, D. Hernández-Sosa, O. J. Santana, F. Ortega-Zamorano, J. Isern-González, J. Lorenzo-Navarro, "An Evaluation of General-Purpose Optical Character Recognizers and Digit Detectors for Race Bib Number Recognition", *ICPRAM*, 2024. <a href="[[https://www.sciencedirect.com/science/article/pii/S0262885625000125](https://www.scitepress.org/Papers/2024/125624/125624.pdf)]([https://link.springer.com/article/10.1007/s11042-024-18469-5](https://www.scitepress.org/Papers/2024/125624/125624.pdf)" target="_blank">Paper</a>
+- D. Freire-Obregón, P. Barra, M. Castrillón-Santana, M. De Marsico, “Exploring biometric domain adaptation in human action recognition models for unconstrained environments”, *Multimedia Tools and Applications*, 2024. <a href="[https://link.springer.com/article/10.1007/s11042-024-18469-5](https://link.springer.com/article/10.1007/s11042-024-18469-5)" target="_blank">Paper</a>
 
 ## 2023
 - D. Freire-Obregón, J. Lorenzo-Navarro, O. J. Santana, D. Hernández-Sosa, M. Castrillón-Santana, "A Large-scale Analysis of Athletes’ Cumulative Race Time in Running Events", *International Conference on Image Analysis and Processing*, 2023. [Paper](#)
