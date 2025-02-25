@@ -44,72 +44,42 @@ redirect_from:
 
 
 ## 2022
-- D. Freire-Obregón, P. Barra, M. Castrillón-Santana, M. De Marsico, “Inflated 3D ConvNet context analysis for violence detection”, *Machine Vision and Applications*, 2022. <a href="" target="_blank">Paper</a>
-- S. L. Almonacid-Uribe, O. J. Santana, D. Hernández-Sosa, D. Freire-Obregón, "Deep learning for diagonal earlobe crease detection", *arXiv preprint arXiv:2210.11582*, 2022. <a href="" target="_blank">Paper</a>
-- M. Á. Medina, J. Lorenzo-Navarro, D. Freire-Obregón, O. J. Santana, D. Hernández-Sosa, M. Castrillón-Santana, "Boosting Re-identification in the Ultra-running Scenario", *International Conference on Pattern Recognition Applications and Methods*, 2022. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, J. Lorenzo-Navarro, O. J. Santana, D. Hernández-Sosa, M. Castrillón-Santana, "Towards cumulative race time regression in sports: I3D ConvNet transfer learning in ultra-distance running events", *2022 26th International Conference on Pattern Recognition (ICPR)*, 2022. <a href="" target="_blank">Paper</a>
-- O. J. Santana, D. Freire-Obregón, D. Hernández-Sosa, J. Lorenzo-Navarro, E. Sánchez-Nielsen, M. Castrillón-Santana, "Facial expression analysis in a wild sporting environment", *Multimedia Tools and Applications*, 2023. <a href="" target="_blank">Paper</a>
+- D. Freire-Obregón, P. Barra, M. Castrillón-Santana, M. De Marsico, “Inflated 3D ConvNet context analysis for violence detection”, *Machine Vision and Applications*, 2022. <a href="https://link.springer.com/article/10.1007/s00138-021-01264-9" target="_blank">Paper</a>
+- S. L. Almonacid-Uribe, O. J. Santana, D. Hernández-Sosa, D. Freire-Obregón, "Deep learning for diagonal earlobe crease detection", *International Conference on Pattern Recognition Applications and Methods*, 2022. <a href="https://www.scitepress.org/Papers/2023/116444/" target="_blank">Paper</a>
+- M. Á. Medina, J. Lorenzo-Navarro, D. Freire-Obregón, O. J. Santana, D. Hernández-Sosa, M. Castrillón-Santana, "Boosting Re-identification in the Ultra-running Scenario", *International Conference on Pattern Recognition Applications and Methods*, 2022. <a href="https://www.scitepress.org/Papers/2022/109046/" target="_blank">Paper</a>
+- D. Freire-Obregón, J. Lorenzo-Navarro, O. J. Santana, D. Hernández-Sosa, M. Castrillón-Santana, "Towards cumulative race time regression in sports: I3D ConvNet transfer learning in ultra-distance running events", *2022 26th International Conference on Pattern Recognition (ICPR)*, 2022. <a href="https://ieeexplore.ieee.org/document/9956174" target="_blank">Paper</a>
+- O. J. Santana, D. Freire-Obregón, D. Hernández-Sosa, J. Lorenzo-Navarro, E. Sánchez-Nielsen, M. Castrillón-Santana, "Facial expression analysis in a wild sporting environment", *Multimedia Tools and Applications*, 2023. <a href="https://link.springer.com/article/10.1007/s11042-022-13654-w" target="_blank">Paper</a>
 
 ## 2021
-- O. J. Santana, J. Lorenzo-Navarro, D. Freire-Obregón, D. Hernández-Sosa, J. Isern-González, M. Castrillón-Santana, "Exploiting temporal coherence to improve person re-identification", *International Conference on Pattern Recognition Applications and Methods*, 2021. <a href="" target="_blank">Paper</a>
-- P. Hernández-Carrascosa, A. Penate-Sanchez, J. Lorenzo-Navarro, D. Freire-Obregón, M. Castrillón-Santana, "TGCRBNW: A dataset for runner bib number detection (and recognition) in the wild", *2020 25th International Conference on Pattern Recognition (ICPR)*, 2021. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, K. Rosales-Santana, P. A. Marín-Reyes, A. Penate-Sanchez, J. Lorenzo-Navarro, M. Castrillón-Santana, "Improving user verification in human-robot interaction from audio or image inputs through sample quality assessment", *Pattern recognition letters*, 2021. <a href="" target="_blank">Paper</a>
+- O. J. Santana, J. Lorenzo-Navarro, D. Freire-Obregón, D. Hernández-Sosa, J. Isern-González, M. Castrillón-Santana, "Exploiting temporal coherence to improve person re-identification", *International Conference on Pattern Recognition Applications and Methods*, 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-031-24538-1_7" target="_blank">Paper</a>
+- P. Hernández-Carrascosa, A. Penate-Sanchez, J. Lorenzo-Navarro, D. Freire-Obregón, M. Castrillón-Santana, "TGCRBNW: A dataset for runner bib number detection (and recognition) in the wild", *2020 25th International Conference on Pattern Recognition (ICPR)*, 2021. <a href="https://ieeexplore.ieee.org/document/9412220" target="_blank">Paper</a>
+- D. Freire-Obregón, K. Rosales-Santana, P. A. Marín-Reyes, A. Penate-Sanchez, J. Lorenzo-Navarro, M. Castrillón-Santana, "Improving user verification in human-robot interaction from audio or image inputs through sample quality assessment", *Pattern recognition letters*, 2021. <a href="https://www.sciencedirect.com/science/article/pii/S0167865521002208" target="_blank">Paper</a>
 
 ## 2020
-- A. Penate-Sanchez, D. Freire-Obregon, A. Lorenzo-Melian, J. Lorenzo-Navarro, M. Castrillon-Santana, "TGC20ReId: A dataset for sport event re-identification in the wild", *Pattern Recognition Letters*, 2020. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, M. Castrillón-Santana, P. Barra, C. Bisogni, M. Nappi, "An attention recurrent model for human cooperation detection", *Computer Vision and Image Understanding*, 2020. <a href="" target="_blank">Paper</a>
+- A. Penate-Sanchez, D. Freire-Obregon, A. Lorenzo-Melian, J. Lorenzo-Navarro, M. Castrillon-Santana, "TGC20ReId: A dataset for sport event re-identification in the wild", *Pattern Recognition Letters*, 2020. <a href="https://www.sciencedirect.com/science/article/pii/S0167865520303019" target="_blank">Paper</a>
+- D. Freire-Obregón, M. Castrillón-Santana, P. Barra, C. Bisogni, M. Nappi, "An attention recurrent model for human cooperation detection", *Computer Vision and Image Understanding*, 2020. <a href="https://www.sciencedirect.com/science/article/pii/S107731422030062X" target="_blank">Paper</a>
 
 ## 2019
-- P. Barra, C. Bisogni, M. Nappi, D. Freire-Obregón, M. Castrillón-Santana, "Gender classification on 2D human skeleton", *2019 3rd International Conference on Bio-engineering for Smart Technologies (BioSMART)*, 2019. <a href="" target="_blank">Paper</a>
-- P. Barra, C. Bisogni, M. Nappi, D. Freire-Obregón, M. Castrillón-Santana, "Gait analysis for gender classification in forensics", *Dependability in Sensor, Cloud, and Big Data Systems and Applications: 5th International Conference, DependSys 2019, Guangzhou, China, November 12--15, 2019, Proceedings 5*, 2019. <a href="" target="_blank">Paper</a>
-- P. Barra, C. Bisogni, M. Nappi, D. Freire-Obregón, M. Castrillón-Santana, "Gotcha-i: a multiview human videos dataset", *International Symposium on Security in Computing and Communication*, 2019. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, F. Narducci, S. Barra, M. Castrillon-Santana, "Deep learning for source camera identification on mobile devices", *Pattern Recognition Letters*, 2019. <a href="" target="_blank">Paper</a>
+- P. Barra, C. Bisogni, M. Nappi, D. Freire-Obregón, M. Castrillón-Santana, "Gender classification on 2D human skeleton", *2019 3rd International Conference on Bio-engineering for Smart Technologies (BioSMART)*, 2019. <a href="https://ieeexplore.ieee.org/document/8734198" target="_blank">Paper</a>
+- P. Barra, C. Bisogni, M. Nappi, D. Freire-Obregón, M. Castrillón-Santana, "Gait analysis for gender classification in forensics", *Dependability in Sensor, Cloud, and Big Data Systems and Applications: 5th International Conference, DependSys 2019, Guangzhou, China, November 12--15, 2019, Proceedings 5*, 2019. <a href="https://link.springer.com/chapter/10.1007/978-981-15-1304-6_15" target="_blank">Paper</a>
+- P. Barra, C. Bisogni, M. Nappi, D. Freire-Obregón, M. Castrillón-Santana, "Gotcha-i: a multiview human videos dataset", *International Symposium on Security in Computing and Communication*, 2019. <a href="https://www.springerprofessional.de/en/gotcha-i-a-multiview-human-videos-dataset/17929432" target="_blank">Paper</a>
+- D. Freire-Obregón, F. Narducci, S. Barra, M. Castrillon-Santana, "Deep learning for source camera identification on mobile devices", *Pattern Recognition Letters*, 2019. <a href="https://www.sciencedirect.com/science/article/pii/S0167865518300059" target="_blank">Paper</a>
 
 ## 2018
-- M. Castrillón-Santana, J. Lorenzo-Navarro, C. M. Travieso-González, D. Freire-Obregón, J. B. Alonso-Hernandez, "Evaluation of local descriptors and CNNs for non-adult detection in visual content", *Pattern Recognition Letters*, 2018. <a href="" target="_blank">Paper</a>
+- M. Castrillón-Santana, J. Lorenzo-Navarro, C. M. Travieso-González, D. Freire-Obregón, J. B. Alonso-Hernandez, "Evaluation of local descriptors and CNNs for non-adult detection in visual content", *Pattern Recognition Letters*, 2018. <a href="https://www.sciencedirect.com/science/article/pii/S0167865517300922" target="_blank">Paper</a>
 
 ## 2016
-- D. Freire-Obregón, M. Castrillón-Santana, J. Lorenzo-Navarro, "Optimized clothes segmentation to boost gender classification in unconstrained scenarios", *arXiv preprint arXiv:1611.03999*, 2016. <a href="" target="_blank">Paper</a>
-- M. Castrillón-Santana, J. J. Lorenzo Navarro, D. Freire-Obregón, "Análisis de descriptores locales para la detección de menores en imágenes", 2016. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, M. Castrillón-Santana, O. Déniz-Suárez, "Digital signature: a novel adaptative image segmentation approach", *Biometric Systems, Design and Applications*, 2016. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, L. Pérez Martín, "The Practicum, a career oriented proposal through a blended learning methodology at the ULPGC", *INTED2016 Proceedings*, 2016. <a href="" target="_blank">Paper</a>
+- D. Freire-Obregón, M. Castrillón-Santana, J. Lorenzo-Navarro, "Optimized clothes segmentation to boost gender classification in unconstrained scenarios", *arXiv preprint arXiv:1611.03999*, 2016. <a href="https://arxiv.org/abs/1611.03999" target="_blank">Paper</a>
+- M. Castrillón-Santana, J. J. Lorenzo Navarro, D. Freire-Obregón, "Análisis de descriptores locales para la detección de menores en imágenes", 2016. <a href="https://accedacris.ulpgc.es/handle/10553/25267" target="_blank">Paper</a>
+- D. Freire-Obregón, M. Castrillón-Santana, O. Déniz-Suárez, "Digital signature: a novel adaptative image segmentation approach", *Biometric Systems, Design and Applications*, 2016. <a href="https://www.intechopen.com/chapters/21765" target="_blank">Paper</a>
 
 ## 2015
-- J. Lorenzo-Navarro, M. Castrillón-Santana, D. Freire-Obregón, E. Ramón-Balmaseda, "Stripe based clothes segmentation", *2015 IEEE International Conference on Multimedia & Expo Workshops (ICMEW)*, 2015. <a href="" target="_blank">Paper</a>
+- J. Lorenzo-Navarro, M. Castrillón-Santana, D. Freire-Obregón, E. Ramón-Balmaseda, "Stripe based clothes segmentation", *2015 IEEE International Conference on Multimedia & Expo Workshops (ICMEW)*, 2015. <a href="https://ieeexplore.ieee.org/document/7169791" target="_blank">Paper</a>
 
 ## 2014
-- D. Freire Obregón, A. C. Domínguez Brito, M. Castrillón Santana, "Puzle 2.0: un nuevo enfoque para enseñar a programar a partir de patrones espaciales", *Cuadernos de innovación educativa: 1*, 2014. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, M. Castrillón-Santana, "An Evolutive Approach for Smile Recognition in Video Sequences", *International Journal of Pattern Recognition and Artificial Intelligence*, 2014. <a href="" target="_blank">Paper</a>
-- J. Lorenzo-Navarro, M. Castrillón-Santana, E. Ramón-Balmaseda, D. Freire-Obregón, "Evaluation of LBP and HOG Descriptors for Clothing Attribute Description", *Video Analytics for Audience Measurement*, 2014. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, M. Castrillón-Santana, E. Ramón-Balmaseda, J. Lorenzo-Navarro, "Automatic clothes segmentation for soft biometrics", *2014 IEEE International Conference on Image Processing (ICIP)*, 2014. <a href="" target="_blank">Paper</a>
-- D. Freire Obregón, "Sobre la descripción visual automática del ser humano para aplicaciones de interacción hombre-máquina", *PhD Thesis*, 2014. <a href="" target="_blank">Paper</a>
+- D. Freire-Obregón, M. Castrillón-Santana, "An Evolutive Approach for Smile Recognition in Video Sequences", *International Journal of Pattern Recognition and Artificial Intelligence*, 2014. <a href="https://www.worldscientific.com/doi/10.1142/S0218001415500068?srsltid=AfmBOoobD9djtxFbVLO-E2g6jCNqqvk0UkTnBzgSdZ2P7aPUedX2ltcu" target="_blank">Paper</a>
+- J. Lorenzo-Navarro, M. Castrillón-Santana, E. Ramón-Balmaseda, D. Freire-Obregón, "Evaluation of LBP and HOG Descriptors for Clothing Attribute Description", *Video Analytics for Audience Measurement*, 2014. <a href="https://link.springer.com/chapter/10.1007/978-3-319-12811-5_4" target="_blank">Paper</a>
+- D. Freire-Obregón, M. Castrillón-Santana, E. Ramón-Balmaseda, J. Lorenzo-Navarro, "Automatic clothes segmentation for soft biometrics", *2014 IEEE International Conference on Image Processing (ICIP)*, 2014. <a href="https://ieeexplore.ieee.org/document/7026007" target="_blank">Paper</a>
+- D. Freire Obregón, "Sobre la descripción visual automática del ser humano para aplicaciones de interacción hombre-máquina", *PhD Thesis*, 2014. <a href="https://accedacris.ulpgc.es/handle/10553/12659" target="_blank">Paper</a>
 
-## 2012
-- D. Freire-Obregón, M. Castrillón-Santana, "A video database for facial behavior understanding", 2012. <a href="" target="_blank">Paper</a>
-- C. Meiler-Rodriguez, D. Freire-Obregón, E. Rubio-Royo, "New world, new minds: Changing the learning process through the use of new devices", *ICERI2012 Proceedings*, 2012. <a href="" target="_blank">Paper</a>
-- C. Meiler-Rodríguez, D. Freire-Obregón, E. Rubio-Royo, "ELDERLY: FROM 0.0 TO WEB 2.0", *EDULEARN12 Proceedings*, 2012. <a href="" target="_blank">Paper</a>
-- C. Meiler-Rodríguez, D. Freire-Obregón, E. Rubio-Royo, "SEVENTI: new approach for teaching seniors basic skills through social media", *INTED2012 Proceedings*, 2012. <a href="" target="_blank">Paper</a>
-- C. Meiler-Rodríguez, D. Freire-Obregón, E. Rubio-Royo, "Teachers among our students: when leadership Emerges within the group", *ICERI2012 Proceedings*, 2012. <a href="" target="_blank">Paper</a>
-
-## 2011
-- D. Freire-Obregón, M. Castrillón-Santana, A. C. Domínguez-Brito, "Spatial programming learning: a new application to learn programming", *ICERI2011 Proceedings*, 2011. <a href="" target="_blank">Paper</a>
-- M. Castrillón, A. Domínguez, S. Candela, L. Doreste, D. Freire, A. Salgado, and D. Hernández., "Fundamentos de informática y programación para ingeniería", Paraninfo, 2011. <a href="" target="_blank">Paper</a>
-
-## 2010
-- M. Castrillón-Santana, J. Lorenzo-Navarro, D. Freire-Obregón, O. Déniz-Suárez, "Learning to recognize gender using experience", *Image Processing (ICIP), 2010 17th IEEE International Conference on*, 2010. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, "The Vedana Database", 2010. <a href="" target="_blank">Paper</a>
-
-## 2009
-- D. Freire, L. Antón, M. Castrillón, "A study for the self similarity smile detection", *Proceedings of the 2009 joint COST 2101 and 2102 international conference on Biometric ID management and multimodal communication*, 2009. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, M. Castrillón-Santana, O. Déniz-Suárez, "Smile Detection using Local Binary Patterns and Support Vector Machines.", *VISAPP (1)*, 2009. <a href="" target="_blank">Paper</a>
-- D. Freire-Obregón, M. Castrillón-Santana, O. Déniz-Suárez, "Novel approach for smile detection combining LBP and PCA", *Proc. Int. Conf. Comput. Aided Syst. Theory (EUROCAST)*, 2009. <a href="" target="_blank">Paper</a>
-- J. Santos, D. Freire Obregón, A. C. Domínguez Brito, A. Quesada, "Gestión informática de la seguridad y emergencias", 2009. <a href="" target="_blank">Paper</a>
-
-## 2007
-- D. Freire-Obregón, R. Moreno-Díaz, R. Moreno-Díaz, G. De Blasio, A. Moreno-Díaz, "A Computational Structure for Generalized Visual Space-Time Chromatic Processing", *Bio-inspired Modeling of Cognitive Tasks: Second International Work-Conference on the Interplay Between Natural and Artificial Computation, IWINAC 2007, La Manga del Mar Menor, Spain, June 18-21, 2007, Proceedings, Part I 2*, 2007. <a href="" target="_blank">Paper</a>
-- R. Moreno-Díaz, A. Moreno-Díaz, G. De Blasio, D. Freire-Obregón, "A structure for generalized space-time processing: the feedforward visual case", *Computer Aided Systems Theory--EUROCAST 2007: 11th International Conference on Computer Aided Systems Theory, Las Palmas de Gran Canaria, Spain, February 12-16, 2007, Revised Selected Papers 11*, 
-## 2006
-- D. Freire Obregón, "Estructura computacional para la simulación de procesos visuales", 2006. <a href="" target="_blank">Paper</a>
-
-## 2000
-- J Santos, A Quesada, A Domínguez, D. Freire, "Introducción a la informática", 2000. <a href="" target="_blank">Paper</a>
+(...)
