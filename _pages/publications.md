@@ -11,6 +11,7 @@ redirect_from:
 
 
 ## 2025
+- I. Rodríguez-Moreno, D. Freire-Obregón, J. M. Martínez-Otzeta, M. Castrillón-Santana, "Real-Time Hand Gesture Recognition: Lightweight Keypoint-Based Approach with Medoid Similarity", *Journal of Advances in Information Technology*, Vol. 16, No. 4, pp. 447–457, 2025. <a href="https://www.jait.us/articles/2025/JAIT-V16N4-447.pdf" target="_blank">Paper</a>
 - D. Freire-Obregón, J. Neves, Ž. Emeršič, B. Meden, M. Castrillón-Santana, H. Proença, "Synthesizing multilevel abstraction ear sketches for enhanced biometric recognition", *Image and Vision Computing*, 2025. <a href="https://www.sciencedirect.com/science/article/pii/S0262885625000125" target="_blank">Paper</a>
 - D. Freire-Obregón, O. J. Santana Jaria, "La revolución de los bocetos: del trazo a mano a la inteligencia artificial", *The Conversation*, 2025. 
   <a href="https://theconversation.com/la-revolucion-de-los-bocetos-del-trazo-a-mano-a-la-inteligencia-artificial-244864" target="_blank">Spanish</a> 
