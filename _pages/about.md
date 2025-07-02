@@ -18,10 +18,10 @@ My research focuses on advancing technology that enhances sports performance thr
 
 ---
 ## News
+- **07/2025** - Paper accepted at *Neuro-Inspired AI Workshop* at *ICIAP 2025*.
+- **07/2025** - Paper accepted at *ICIAP 2025*.
+- **04/2025** - Published a new paper on *Hand Gesture Recognition* at *Journal of Advances in Information Technology*.
 - **01/2025** - Published a new paper on *Ear Biometrics* at *Image and Vision Computing*.
-- **09/2024** - Published a new paper on *Affective Computing* at *Multimedia Tools and Applications*. 
-- **06/2024** - Published a new paper on *Image Quality Asssessment* at *Neurocomputing*.
-
 ---
 
 
