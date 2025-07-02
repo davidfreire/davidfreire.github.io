@@ -22,6 +22,8 @@ My research focuses on advancing technology that enhances sports performance thr
 - **07/2025** - Paper accepted at *ICIAP 2025*.
 - **04/2025** - Published a new paper on *Hand Gesture Recognition* at *Journal of Advances in Information Technology*.
 - **01/2025** - Published a new paper on *Ear Biometrics* at *Image and Vision Computing*.
+
+
 ---
 
 
