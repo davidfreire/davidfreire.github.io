@@ -18,7 +18,7 @@ My research focuses on advancing technology that enhances sports performance thr
 
 ---
 ## News
-- **08/2025** - Paper accepted at *Mortal Agents* at *ALIFE 2025*.
+- **08/2025** - Paper accepted at *Mortal Agents Workshop* at *ALIFE 2025*.
 - **08/2025** - Paper accepted at *ABMHuB Workshop* at *ALIFE 2025*.
 - **07/2025** - Paper accepted at *Neuro-Inspired AI Workshop* at *ICIAP 2025*.
 - **06/2025** - Paper accepted at *ICIAP 2025*.
