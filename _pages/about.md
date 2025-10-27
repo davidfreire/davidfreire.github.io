@@ -18,13 +18,14 @@ My research focuses on advancing technology that enhances sports performance thr
 
 ---
 ## News
+- **10/2025** - Published a new paper on *Long-Term Person Re-Identification* in *Pattern Recognition*.
 - **10/2025** - Paper accepted at *AAIS 2025*, part of *FLLM 2025*.
 - **08/2025** - Paper accepted at *Mortal Agents Workshop* at *ALIFE 2025*.
 - **08/2025** - Paper accepted at *ABMHuB Workshop* at *ALIFE 2025*.
 - **07/2025** - Paper accepted at *Neuro-Inspired AI Workshop* at *ICIAP 2025*.
 - **06/2025** - Paper accepted at *ICIAP 2025*.
-- **04/2025** - Published a new paper on *Hand Gesture Recognition* at *Journal of Advances in Information Technology*.
-- **01/2025** - Published a new paper on *Ear Biometrics* at *Image and Vision Computing*.
+- **04/2025** - Published a new paper on *Hand Gesture Recognition* in *Journal of Advances in Information Technology*.
+- **01/2025** - Published a new paper on *Ear Biometrics* in *Image and Vision Computing*.
 
 
 ---
