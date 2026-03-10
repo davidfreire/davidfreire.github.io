@@ -18,6 +18,7 @@ My research focuses on advancing technology that enhances sports performance thr
 
 ---
 ## News
+- **03/2026** - Paper accepted at *ICAART 2026*.
 - **10/2025** - Published a new paper on *Long-Term Person Re-Identification* in *Pattern Recognition*.
 - **10/2025** - Paper accepted at *AAIS 2025*, part of *FLLM 2025*.
 - **08/2025** - Paper accepted at *Mortal Agents Workshop* at *ALIFE 2025*.
