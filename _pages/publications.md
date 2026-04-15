@@ -9,6 +9,10 @@ redirect_from:
 {% include base_path %}
 
 
+## 2026
+- D. Freire-Obregón, J. Sálas-Cáceres, M. Castrillón-Santana, "Dynamic Dropout: Leveraging Conway's Game of Life for Neural Networks Regularization", IEEE International Conference on Computing and Machine Intelligence (ICMI), 2026. <a href="https://arxiv.org/pdf/2510.22383" target="_blank">Arxiv</a>
+- D. Freire-Obregón, "Emotional Modulation in Swarm Decision Dynamics", International Conference on Agents and Artificial Intelligence (ICAART), 2026. <a href="https://arxiv.org/pdf/2603.09963" target="_blank">Arxiv</a>
+- D. Freire-Obregón, O. J. Santana, J. Lorenzo-Navarro, D. Hernández-Sosa, M. Castrillón-Santana, "Multi-year long-term person re-identification using gait and HAR features", Pattern Recognition, Vol. 172, 112627, 2026. <a href="https://www.sciencedirect.com/science/article/pii/S0031320325012907" target="_blank">Paper</a> · <a href="https://doi.org/10.1016/j.patcog.2025.112627" target="_blank">DOI</a>
 
 ## 2025
 - D. Freire-Obregón, J. Sálas-Cáceres,  J. Lorenzo-Navarro, O. J. Santana, D. Hernández-Sosa, M. Castrillón-Santana, "Modeling Cultural Bias in Facial Expression Recognition with Adaptive Agents", *International Symposium on Agentic Artificial Intelligence Systems (AAIS), FLLM*, 2025. <a href="https://arxiv.org/abs/2510.13557" target="_blank">Paper</a> · <a href="https://github.com/davidfreire/AdaptiveAgents-FER" target="_blank">Code</a> · <a href="https://github.com/davidfreire/davidfreire.github.io/raw/master/files/2025_AAIS.pdf" target="_blank" download>Slides</a>
